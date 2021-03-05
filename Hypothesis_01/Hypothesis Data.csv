@@ -1,0 +1,143 @@
+Table S1. List of cells contaminated with HeLa cells,,,,,,,,,,,,
+ Misidentified Cell Line , Claimed Species , Claimed Cell Type ," Misidentified Cell Line, Cellosaurus AC ", Contaminating Cell Line , Actual Species , Actual Cell Type ," Contaminating Cell Line, Cellosaurus AC ", Misidentification Reported By , Reference PubMed ID ,,Year,HeLa
+2563 (MAC-21),Human,Lung carcinoma,CVCL_M629,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1981,HeLa
+ACC2,Human,"Salivary gland, adenoid cystic carcinoma",CVCL_6872,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Phuchareon et al, 2009; Zhao et al, 2011","19557180, 21868764", ,2009,HeLa
+ACC3,Human,"Salivary gland, adenoid cystic carcinoma",CVCL_6873,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Phuchareon et al, 2009; Zhao et al, 2011","19557180, 21868764", ,2009,HeLa
+ACCM,Human,"Salivary gland, adenoid cystic carcinoma",CVCL_6874,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Phuchareon et al, 2009; Zhao et al, 2011","19557180, 21868764", ,2009,HeLa
+ADLC-5M2,Human,Lung carcinoma,CVCL_8169,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"MacLeod et al, 1999",10508494, ,1999,HeLa
+AKI,Human,Melanoma,CVCL_8170,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Yoshino et al, 2006",16643607, ,2006,HeLa
+AO,Human,Amnion,CVCL_D631,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1981,HeLa
+AV3,Human,Amnion,CVCL_1904,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Lavappa et al, 1976; Nelson-Rees et al, 1981","4864103, 1250349, 6451928", ,1967,HeLa
+BCC1/KMC,Human,Basal cell carcinoma,CVCL_A033,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"MacLeod et al, 1999",10508494, ,1999,HeLa
+BrCA 5,Human,Breast carcinoma,CVCL_D280,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees and Flandermeyer, 1977; Nelson-Rees et al, 1981","557237, 6451928", ,1977,HeLa
+BT-B,Human,Bladder carcinoma,CVCL_1858,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,DSMZ website,No PMID, ,1981,HeLa
+C16(MRC-5 derivative),Human,"Lung cells, fetal",CVCL_2322,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,ECACC website,No PMID, ,1981,HeLa
+CaOV,Human,Ovarian carcinoma,CVCL_M091,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1967,HeLa
+CaVe,Human,Gastric carcinoma,CVCL_8444,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1981,HeLa
+Chang liver,Human,"Liver, normal hepatic cells",CVCL_0238,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Lavappa et al, 1976; Nelson-Rees et al, 1981","4864103, 1250349, 6451928", ,1999,HeLa
+ ElCo , Human , Breast carcinoma , CVCL_8686 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1999,HeLa
+ EPLC3-2M1 , Human , Lung carcinoma , CVCL_8193 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," MacLeod et al, 1999 ",10508494,,1981,HeLa
+ EPLC-65 , Human , Lung carcinoma , CVCL_8194 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," MacLeod et al, 1999 ",10508494,,1981,HeLa
+ ESP1 , Human ," Lymphoma, Burkitt ", CVCL_8351 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ EUE , Human ," Subcutis, fetal ", CVCL_7262 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ F255A4 , Human , Not specified , CVCL_8688 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ FL , Human , Amnion , CVCL_1905 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981; Ogura et al, 1993 "," 6451928, 8397027 ",,1967,HeLa
+ G-11 (HBT-3 derivative) , Human , Breast carcinoma , CVCL_U962 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1980,HeLa
+ Girardi heart , Human ," Heart, normal cells ", CVCL_2254 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Gartler, 1967; Lavappa, 1978; Nelson-Rees et al, 1981 "," 4864103, 566722, 6451928 ",,1981,HeLa
+ H-494 , Human , Prostate carcinoma , CVCL_7669 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Williams, 1980 ",6244232,,1981,HeLa
+ HBT-3 , Human , Breast carcinoma , CVCL_D281 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ HBT-39b , Human , Breast carcinoma , CVCL_J652 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ HBT-E(HBT-3 clone) , Human , Breast carcinoma , CVCL_M746 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ HCE , Human , Cervical carcinoma , CVCL_M619 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ HEK , Human ," Kidney, embryonic renal cells ", CVCL_M624 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1967,HeLa
+ HEK/HRV (HEK derivative) , Human ," Kidney, transformed embryonic renal cells ", CVCL_M625 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ HEp-2 (H.Ep.-2) , Human , Laryngeal carcinoma , CVCL_1906 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Gartler, 1967; Nelson-Rees et al, 1981; Chen, 1988 "," 4864103, 6451928, 3180844 ",,2012,HeLa
+ Hep-2C , Human , Laryngeal carcinoma , CVCL_2940 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ECACC website , No PMID ,,2006,HeLa
+ Hep2 (Clone 2B) , Human , Laryngeal carcinoma , CVCL_2817 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ECACC website , No PMID ,,1999,HeLa
+ HES , Human , Endometrium , CVCL_W635 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Korch et al, 2012; Kniss & Summerfield, 2014 "," 22710073, 24520087 ",,2001,HeLa
+ HL111783 , Human , Lung carcinoma , CVCL_8231 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Yoshino et al, 2006 ",16643607,,1967,HeLa
+ HMV-1 , Human , Melanoma , CVCL_8233 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," MacLeod et al, 1999 ",10508494,,1981,HeLa
+ HPC-36M(HPC-36 derivative) , Human , Prostate carcinoma , CVCL_8446 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Masters et al, 2001 ",11416159,,2008,HeLa
+ HSG , Human ," Salivary gland, submandibular ", CVCL_2517 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ECACC website , No PMID ,,2008,HeLa
+ HSG-AZA1 , Human ," Salivary gland, submandibular ", CVCL_A047 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , JCRB website , No PMID ,,1981,HeLa
+ HSG-AZA3 , Human ," Salivary gland, submandibular ", CVCL_A048 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , JCRB website , No PMID ,,1992,HeLa
+ HSGc-C5 , Human , Oral carcinoma , CVCL_2951 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , JCRB website , No PMID ,,1981,HeLa
+ HSY , Human ," Salivary gland, parotid ", CVCL_B032 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , JCRB website , No PMID ,,1981,HeLa
+Clone 1-5c-4,Human,Conjunctiva,CVCL_2260,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,ECACC website,No PMID,,1967,HeLa
+CMP,Human,Rectal adenocarcinoma,CVCL_D297,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Nelson-Rees et al, 1981","4864103, 6451928",,1967,HeLa
+CMPII C2,Human,Rectal adenocarcinoma,CVCL_L115,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928,,1978,HeLa
+CNE-1,Human,"Nasal pharynx, carcinoma",CVCL_6888,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Chan et al, 2008; Strong et al, 2014","18196576, 24991015",,1978,HeLa
+CNE-2,Human,"Nasal pharynx, carcinoma",CVCL_6889,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Chan et al, 2008; Strong et al, 2014","18196576, 24991015",,1978,HeLa
+D18T,Human,Synovial cell,CVCL_8669,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928,,1978,HeLa
+D98/AH,Human,Not specified,CVCL_U961,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Honma et al, 1992",1730567,,1979,HeLa
+D98/AH2 Clone B,Human,Not specified,CVCL_2884,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,ECACC website,No PMID,,2992,HeLa
+DAPT,Human,"Astrocytoma, piloid",CVCL_D279,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928,,1981,HeLa
+Det30A,Human,"Breast carcinoma, ascitic fluid",CVCL_8674,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928,,198,HeLa
+Detroit-6 (Det6),Human,Sternal marrow cells,CVCL_2436,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Lavappa et al, 1976; Nelson-Rees et al, 1981","4864103, 1250349, 6451928",,1999,HeLa
+Detroit-98,Human,Sternal marrow cells,CVCL_8188,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Lavappa, 1978; Nelson-Rees et al, 1981","4864103, 566722, 6451928",,2001,HeLa
+Detroit 98/AG,Human,Sternal marrow cells,CVCL_8189,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928",,1967,HeLa
+Detroit 98/AH-2,Human,Sternal marrow cells,CVCL_8190,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928",,1967,HeLa
+Detroit 98/AH-R,Human,Sternal marrow cells,CVCL_8191,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928",,1981,HeLa
+Detroit 98s,Human,Sternal marrow cells,CVCL_8192,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928",,1981,HeLa
+EB33,Human,Prostate carcinoma,CVCL_8344,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees, 1979; Nelson-Rees et al, 1981","535908, 6451928",,1981,HeLa
+ED27,Human,Chorionic villus,CVCL_8345,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Kniss et al, 2002",11869090,,1992,HeLa
+ HuKo39 , Human ," Kidney, normal renal cells ", CVCL_8283 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1997,HeLa
+ HuL-1 , Human ," Liver, hepatocellular carcinoma ", CVCL_8357 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , JCRB website , No PMID ,,1967,HeLa
+ Hut , Human , Not specified , CVCL_M861 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ IMC-2 , Human , Maxillary carcinoma , CVCL_8245 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," MacLeod et al, 1999 ",10508494,,2013,HeLa
+ IMC-3 , Human , Maxillary carcinoma , CVCL_8246 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Masters et al, 2001 ",11416159,,1978,HeLa
+ IMC-4 , Human , Maxillary carcinoma , CVCL_8247 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , RIKEN website , No PMID ,,1978,HeLa
+" Intestine 407 (Int-407, HEI) ", Human ," Intestinal cells (jejunum/ileum), embryonic ", CVCL_1907 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Gartler, 1967; Lavappa, 1978; Nelson-Rees et al, 1981 "," 4864103, 566722, 6451928 ",,1978,HeLa
+ J-111 , Human ," Leukemia, acute myeloid, M5 ", CVCL_2965 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Gartler, 1967; Nelson-Rees et al, 1981; Drexler et al, 2003 "," 4864103, 6451928, 12592342 ",,1978,HeLa
+ J96 , Human , Leukemia , CVCL_3990 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ JHC , Human , Placenta , CVCL_M093 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ JHT (JHC derivative) , Human , Placenta , CVCL_M620 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ JTC-17 , Human , Skin , CVCL_8362 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Honma et al, 1992; JCRB website ",1730567,,1981,HeLa
+ JTC-3 , Human , Not specified , CVCL_A034 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Ogura et al, 1997 ",9556756,,1977,HeLa
+ KB , Human , Oral carcinoma , CVCL_0372 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Gartler, 1967; Lavappa et al, 1976; Nelson-Rees et al, 1981 "," 4864103, 1250349, 6451928 ",,1999,HeLa
+ KB-3-1 , Human , Oral carcinoma , CVCL_2088 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , DSMZ website , No PMID ,,1999,HeLa
+ KB-V1 , Human , Oral carcinoma , CVCL_2089 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , DSMZ website , No PMID ,,1967,HeLa
+ KP-P1 , Human , Prostate carcinoma , CVCL_D283 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,2003,HeLa
+ KU7 , Human , Bladder carcinoma , CVCL_4714 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Jäger et al, 2013 ",23500642,,1999,HeLa
+ L-132 , Human ," Lung cells, embryonic ", CVCL_1908 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Lavappa, 1978; Nelson-Rees et al, 1981 "," 566722, 6451928 ",,1967,HeLa
+ L-41 (J96 derivative) , Human ," Leukemia, bone marrow ", CVCL_7170 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ECACC website , No PMID ,,1978,HeLa
+ LC5 (L-132 derivative) , Human ," Lung cells, embryonic ", CVCL_5G52 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Lavappa, 1978; Nelson-Rees et al, 1981 "," 566722, 6451928 ",,1981,HeLa
+LC5-HIV (L-132 derivative),Human,"Lung cells, embryonic",CVCL_5G53,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928", ,1997,HeLa
+LED-Ti,Human,Cervical carcinoma,CVCL_8438,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,2003,HeLa
+LU,Human,"Lung cells, fetal",CVCL_M631,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,2013,HeLa
+LU 106,Human,"Lung cells, embryonic",CVCL_8892,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1981,HeLa
+M10T,Human,Synovial cell,CVCL_M094,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1999,HeLa
+MA-160,Human,Prostate adenoma,CVCL_8261,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees, 1977; Nelson-Rees et al, 1981","562836, 6451928", ,1999,HeLa
+MaTu,Human,Breast carcinoma,CVCL_5328,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"MacLeod et al, 1999",10508494, ,1981,HeLa
+MC-4000,Human,Breast carcinoma,CVCL_5331,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"MacLeod et al, 1999",10508494, ,1981,HeLa
+ Minnesota EE , Human , Esophageal epithelium , CVCL_8264 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Gartler, 1967; Lavappa, 1978; Nelson-Rees et al, 1981 "," 4864103, 566722, 6451928 ",,2006,HeLa
+ MS (Monkey Stable) , Monkey ," Kidney, normal renal cells ", CVCL_4243 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Milanesi et al, 2003 ",14505435,,1980,HeLa
+" MT-1 [Multiple cell lines with same name, see Cellosaurus] ", Human , Breast carcinoma , CVCL_0441 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," MacLeod et al, 1999 ",10508494,,2012,HeLa
+NCTC 2544,Human,Skin epithelium,CVCL_0461,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Lavappa, 1978; Nelson-Rees et al, 1981","4864103, 566722, 6451928", ,1981,HeLa
+NCTC 3075,Human,Not specified,CVCL_8156,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928", ,1978,HeLa
+ OE , Human , Endometrium , CVCL_J350 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981; Ogura et al, 1997 "," 6451928, 9556756 ",,1967,HeLa
+ OF , Human , Not specified , CVCL_M621 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Ogura et al, 1997 ",9556756,,1978,HeLa
+ OST , Human , Sarcoma (osteosarcoma) , CVCL_8399 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Personal communication, R. Nardone ", No PMID ,,2011,HeLa
+PC-93,Human,Prostate carcinoma,CVCL_4888,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"van Bokhoven et al, 2003",14518029, ,2011,HeLa
+RPMI-4788,Human,Colon carcinoma,CVCL_0U46,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Capes-Davis et al, 2013",23136038, ,2011,HeLa
+SA4,Human,Sarcoma (liposarcoma),CVCL_8910,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1981,HeLa
+SBC-2,Human,Bladder carcinoma,CVCL_1677,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"MacLeod et al, 1999",10508494, ,1981,HeLa
+SBC-7,Human,Bladder carcinoma,CVCL_1680,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"MacLeod et al, 1999",10508494, ,1981,HeLa
+SH-2,Human,Breast carcinoma,CVCL_M622,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Nelson-Rees et al, 1981",6451928, ,1976,HeLa
+ SH-3 , Human , Breast carcinoma , CVCL_M383 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,1981,HeLa
+ SQ-5 , Human , Lung carcinoma , CVCL_8273 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Yoshino et al, 2006 ",16643607,,1976,HeLa
+ T-1 , Human ," Kidney, normal renal cells ", CVCL_M858 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1980; Nelson-Rees et al, 1981 "," 7394535, 6451928 ",,1993,HeLa
+ T1 , Human , Neural stem cell , CVCL_1U15 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Torsvik et al, 2012 ",22949886,,1978,HeLa
+ T-9(WI-38 derivative) , Human ," Lung cells, transformed normal diploid fibroblasts ", CVCL_M092 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 ," Nelson-Rees et al, 1981 ",6451928,,2014,HeLa
+TuWi,Human,"Kidney, Wilms' tumor",CVCL_8275,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981",6451928, ,1988,HeLa
+WISH,Human,"Amnion, normal cells",CVCL_1909,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Gartler, 1967; Lavappa, 1978; Nelson-Rees et al, 1981","4864103, 566722, 6451928", ,1981,HeLa
+Wong-Kilbourne derivative (WKD),Human,Conjunctiva,CVCL_2764,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,"Lavappa, 1978; Nelson-Rees et al, 1981","566722, 6451928", ,2014,HeLa
+WRL 68,Human,"Liver, embryonic cells",CVCL_0581,HeLa,Human,Cervical adenocarcinoma,CVCL_0030,ECACC website,No PMID, ,2014,HeLa
+ Misidentified Cell Line , Claimed Species , Claimed Cell Type ," Misidentified Cell Line, Cellosaurus AC ", Contaminating Cell Line , Actual Species , Actual Cell Type ," Contaminating Cell Line, Cellosaurus AC ", Authentic Stock Location , Misidentification Reported By , Reference PubMed ID ,1976,HeLa
+ BJA-B , Human , Bladder carcinoma , CVCL_5711 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ," Nelson-Rees & Flandermeyer, 1976 ",1246601,1978,HeLa
+ BT-20 , Human , Breast carcinoma , CVCL_0178 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ATCC (HTB-19) ," Nelson-Rees et al, 1981 ",6451928,1981,HeLa
+ RT4 , Human , Bladder carcinoma , CVCL_0036 , HeLa , Human , Cervical adenocarcinoma , CVCL_0030 , ATCC (HTB-2); DSMZ (ACC-412); ECACC (91091914) ," Nelson-Rees et al, 1981 ",6451928,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,2003,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1976,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1978,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1978,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1997,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1978,HeLa
+,,,,,,,,,,,1981,HeLa
+,,,,,,,,,,,1981,HeLa
