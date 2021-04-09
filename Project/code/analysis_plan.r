@@ -50,3 +50,37 @@ plot(as.numeric(names(Cmuts)), Cmuts, xlab="", ylab="c", type=Type, pch=Pch, col
 plot(as.numeric(names(Gmuts)), Gmuts, xlab="", ylab="g", type=Type, pch=Pch, col=Col)
 plot(as.numeric(names(SHmuts)), SHmuts, xlab="", ylab="del.", type=Type, pch=Pch, col=Col)
 
+setwd('C:\\Users\\haile\\Desktop\\Evolution\\Tasks\\Project\\Data')
+Data <- read.csv('evohyp3.csv', stringsAsFactors=F, row.names=1)
+slices <- c(15, 18, 26, 17)
+lbls <- c("A", "T", "C", "G")
+pie(slices, labels = lbls, main="HPV-18 Reference")
+
+setwd('C:\\Users\\haile\\Desktop\\Evolution\\Tasks\\Project\\Data')
+Data <- read.csv('evohyp4.csv', stringsAsFactors=F, row.names=1)
+slices <- c(45, 36, 36, 36)
+lbls <- c("A", "T", "C", "G")
+pie(slices, labels = lbls, main="HPV-58 Reference")
+
+setwd('C:\\Users\\haile\\Desktop\\Evolution\\Tasks\\Project\\Data')
+Data <- read.csv('evohyp2_toread.csv', stringsAsFactors=F, row.names=1)
+slices <- c(84, 90, 64, 65)
+lbls <- c("A", "T", "C", "G")
+pie(slices, labels = lbls, main="HPV-16 Reference")
+
+standard deviations
+sda <- c(0.28, 0.20, 0.29)
+da <- sd(sda, na.rm = FALSE)
+da
+
+sdt <- c(0.3, 0.24, 0.24)
+dt <- sd(sdt, na.rm = FALSE)
+dt
+
+sdc <- c(0.21, 0.34, 0.24)
+dc <- sd(sdc, na.rm = FALSE)
+dc
+
+sdg <- c(0.21, 0.22, 0.24)
+dg <- sd(sdg, na.rm = FALSE)
+dg
