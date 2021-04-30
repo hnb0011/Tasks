@@ -68,7 +68,8 @@ slices <- c(84, 90, 64, 65)
 lbls <- c("A", "T", "C", "G")
 pie(slices, labels = lbls, main="HPV-16 Reference")
 
-standard deviations
+setwd('C:\\Users\\haile\\Desktop\\Evolution\\Tasks\\Project\\Data')
+standard deviations:
 sda <- c(0.28, 0.20, 0.29)
 da <- sd(sda, na.rm = FALSE)
 da
@@ -84,3 +85,36 @@ dc
 sdg <- c(0.21, 0.22, 0.24)
 dg <- sd(sdg, na.rm = FALSE)
 dg
+
+setwd('C:\\Users\\haile\\Desktop\\Evolution\\Tasks\\Project\\Data')
+
+install.packages('gridExtra')
+install.packages('grid')
+library(gridExtra)
+library(grid)
+
+d <- head(iris[1:4,1:2])
+d[1,1] <-"A"
+d[2,1] <-"T"
+d[3,1] <-"C"
+d[4,1] <-"G"
+d[1,2] <-"0.05"
+d[2,2] <-"0.03"
+d[3,2] <-"0.07"
+d[4,2] <-"0.02"
+colnames(d) <- c("Nucleotide", "Standard\nDeviation")
+grid.table(d)
+
+d <- head(iris[1:2,1:5])
+d[1,1] <-"HPV-16 + HPV-18"
+d[2,1] <-"HPV-16 + HPV-58"
+d[1,2] <-"29"
+d[2,2] <-"40"
+d[1,3] <-"20"
+d[2,3] <-"20"
+d[1,4] <-"69"
+d[2,4] <-"14"
+d[1,5] <-"5"
+d[2,5] <-"14"
+colnames(d) <- c("", "A", "T", "C", "G")
+grid.table(d)
